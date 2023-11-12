@@ -18,19 +18,19 @@
 
 ## 주제: 국가 개발 지표를 통한 출생률 예측 및 통계 분석
 
-##1.Introduction
+#### 1.Introduction
 * 주제 선정 배경
 
 * 분석 목표
-##2.Data Exploration
+#### 2.Data Exploration
 
-##3.TimeSeries Clustering
+#### 3.TimeSeries Clustering
 
-##4.Univariate TimeSeriesModeling
+#### 4.Univariate TimeSeriesModeling
 
-##5.Mulivariate TimeSeriesModeling
+#### 5.Mulivariate TimeSeriesModeling
 
-##6.Conclusion
+#### 6.Conclusion
 
 
 
