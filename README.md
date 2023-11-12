@@ -107,11 +107,11 @@
      - 클러스터1은 감소하는 듯 하지만 다시 증가하는 양상을 띄고 있으며, 이는 모델링 전 선택된 변수와 함께 보면 아직 개발이 덜 된 아프리카 지역의 특성이 반영됐고, 이러한 요인들이 빠른 시일 내 변동되지 않을 것이라 볼 수 있다.
      - 클러스터3은 감소하는 양상을 띄고 있으며, 선택된 변수와 함께 보면 클러스터3 또한 여러 생활수준의 지표들의 변동이 크지 않을 것으로 보인다.
 
-   <p align="center" width="100%">
-      <img src="![스크린샷 2023-11-12 133803](https://github.com/minkyyu/-/assets/124666194/492c11b1-163f-4c56-91db-e59ceb3c1e04)" align="center" width="45%">
-      <img src="![스크린샷 2023-11-12 133835](https://github.com/minkyyu/-/assets/124666194/4b5fbf74-a88c-4805-82a4-fbf7be6d9556)" align="center" width="45%">
-      <figcaption align="center">3개 이미지 띄우기</figcaption>
-   </p>   
+   <figure class="half">
+      <a href="link"><img src="![스크린샷 2023-11-12 133803](https://github.com/minkyyu/-/assets/124666194/492c11b1-163f-4c56-91db-e59ceb3c1e04)"></a> 
+      <a href="link"><img src="![스크린샷 2023-11-12 133835](https://github.com/minkyyu/-/assets/124666194/4b5fbf74-a88c-4805-82a4-fbf7be6d9556)"></a>  
+      <figcaption>2개이미지.</figcaption>
+   </figure>
 
    * 클러스터2
      - 선진국과 유럽국가들이 포함되어 있다. 개발도상국에 상관없이 유럽대륙의 특징이 군집의 특성으로 영향을 미칠 것으로 보인다.
