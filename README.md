@@ -66,7 +66,13 @@
   -> target 변수를 제외한 feature 변수에 'MinMaxScaling' 방법 적용
   
 #### 3.TimeSeries Clustering
-
+* 출생률 클러스터링
+  국가마다 출생률 수치와 추이가 다른 것을 확인 -> 비슷한 국가별로 군집화하는 것이 보다 정확한 모델 학습과 예측으로 이어질 것으로 판단
+* 군집 갯수 선정 방법
+  Elbow Method, Silhouette Score를 활용하여 판단 결과, 4개의 군집으로 구분
+* 클러스터별 Birth_rate 추세 확인
+  각 클러스터에 속한 국가별 출생률 비교 결과, 대체적으로 확실하게 군집이 잘 나뉘어진 것으로 확인
+  
 #### 4.Univariate TimeSeriesModeling
 
 #### 5.Mulivariate TimeSeriesModeling
