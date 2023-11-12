@@ -72,7 +72,7 @@
   Elbow Method, Silhouette Score를 활용하여 판단 결과, 4개의 군집으로 구분
 * 클러스터별 Birth_rate 추세 확인
   각 클러스터에 속한 국가별 출생률 비교 결과, 대체적으로 확실하게 군집이 잘 나뉘어진 것으로 확인
-  ![image](https://github.com/minkyyu/-/assets/124666194/835ff1ff-87ea-4340-89e2-7d4aa5d87b33)
+  ![image](https://github.com/minkyyu/-/assets/124666194/2d329e98-450f-4d27-a3b5-39c2a1e3a6e0)
   
 #### 4.Univariate TimeSeriesModeling
 
