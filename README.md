@@ -74,11 +74,20 @@
   각 클러스터에 속한 국가별 출생률 비교 결과, 대체적으로 확실하게 군집이 잘 나뉘어진 것으로 확인
   ![스크린샷 2023-11-12 115223](https://github.com/minkyyu/-/assets/124666194/54363782-7e45-4793-96a8-575414f0c52c)
   
-#### 4.Univariate TimeSeriesModeling
-
-#### 5.Mulivariate TimeSeriesModeling
-
-#### 6.Conclusion
+#### 4.TimeSeriesModeling
+* 단변량 시계열 예측
+1) 모델 소개
+   - ARIMA
+   * 출생률 변수만을 이용한 단변량 시계열 모델
+   * 자기 회귀, 차분, 이동 평균 항의 차수를 이용한 변수 값 예측
+   - Auto ARIMA
+   * ARIMA 모델의 최적 하이퍼 파라미터 조합을 자동으로 선택해주는 도구
+   * 모델 적합성 판단: AIC가 가장 낮은 모델을 선택
+2) 예측 결과
+   
+* 다변량 시계열 예측
+1) 모델 소개
+#### 5.Conclusion
 
 
 
