@@ -108,8 +108,8 @@
      - 클러스터3은 감소하는 양상을 띄고 있으며, 선택된 변수와 함께 보면 클러스터3 또한 여러 생활수준의 지표들의 변동이 크지 않을 것으로 보인다.
 
    <p align='center' width='100%'>
-      <img ![스크린샷 2023-11-12 133803](https://github.com/minkyyu/-/assets/124666194/492c11b1-163f-4c56-91db-e59ceb3c1e04) width='45%'>
-      <img ![스크린샷 2023-11-12 133835](https://github.com/minkyyu/-/assets/124666194/4b5fbf74-a88c-4805-82a4-fbf7be6d9556) width='45%'>
+      <img src="![스크린샷 2023-11-12 133803](https://github.com/minkyyu/-/assets/124666194/492c11b1-163f-4c56-91db-e59ceb3c1e04)" align='center' width='45%'>
+      <img src='![스크린샷 2023-11-12 133835](https://github.com/minkyyu/-/assets/124666194/4b5fbf74-a88c-4805-82a4-fbf7be6d9556)' align='center' width='45%'>
    </p>
    
    * 클러스터2
