@@ -110,8 +110,9 @@
    <p align="center" width="100%">
       <img src="![스크린샷 2023-11-12 133803](https://github.com/minkyyu/-/assets/124666194/492c11b1-163f-4c56-91db-e59ceb3c1e04)" align="center" width="45%">
       <img src="![스크린샷 2023-11-12 133835](https://github.com/minkyyu/-/assets/124666194/4b5fbf74-a88c-4805-82a4-fbf7be6d9556)" align="center" width="45%">
-   </p>
-   
+      <figcaption align="center">3개 이미지 띄우기</figcaption>
+   </p>   
+
    * 클러스터2
      - 선진국과 유럽국가들이 포함되어 있다. 개발도상국에 상관없이 유럽대륙의 특징이 군집의 특성으로 영향을 미칠 것으로 보인다.
      - 클러스터2는 출생률 감소 속도가 매우 낮은 것이 특징으로, 각 국가의 저출산 대응 정책, 문화적 요인 등을 검토하여 다른 군집의 특성으로 영향을 미친 것으로 보인다.
